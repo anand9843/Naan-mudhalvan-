@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Resume</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 20px;
+		}
+		
+		h1 {
+			color: #00698f;
+		}
+		
+		h2 {
+			color: #666;
+			margin-bottom: 10px;
+		}
+		
+		table {
+			border-collapse: collapse;
+			width: 100%;
+		}
+		
+		th, td {
+			border: 1px solid #ddd;
+			padding: 10px;
+			text-align: left;
+		}
+		
+		ul {
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+		
+		li {
+			margin-bottom: 10px;
+		}
+		
+		a {
+			text-decoration: none;
+			color: #00698f;
+		}
+		
+		a:hover {
+			color: #003d4d;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>My Resume</h1>
+	</header>
+	
+	<section>
+		<h2>About Me</h2>
+		<ul>
+			<li><strong>Name:</strong> [Anandhababu]</li>
+			<li><strong>Class:</strong> [B.Sc.Computer science]</li>
+			<li><strong>Age:</strong> [18]</li>
+			<li><strong>Number:</strong> [9843925212]</li>
+			<li><strong>Gmail:</strong> <a href="mailto:[anandtpl2023@gmail.com]">[anandtpl2023@gmail.com]</a></li>
+		</ul>
+	</section>
+	
+	<section>
+		<h2>Objective</h2>
+		<p>To obtain a challenging and rewarding role in a reputable organization where I can utilize my skills and experience to contribute to the company's success.</p>
+	</section>
+	
+	<section>
+		<h2>Academic Performance</h2>
+		<table>
+			<tr>
+				<th>Year</th>
+				<th>School</th>
+				<th>Percentage</th>
+			</tr>
+			<tr>
+				<td>2023</td>
+				<td>GOVERNMENT HR SEC SCHOOL </td>
+				<td>63%</td>
+			</tr>
+			<tr>
+				<td>2021</td>
+				<td>GOVERNMENT HR SEC SCHOOL </td>
+				<td>63%</td>
+			</tr>
+		</table>
+	</section>
+	
+	<section>
+		<h2>Skills</h2>
+		<ul>
+			<li>Programming languages: HTML, CSS, JavaScript, PHP</li>
+			<li>Frameworks: Bootstrap, Laravel</li>
+			<li>Databases: MySQL, MongoDB</li>
+			<li>Operating Systems: Windows, Linux</li>
+			<li>Soft skills: Communication, Teamwork, Problem-solving</li>
+		</ul>
+	</section>
+	
+	<footer>
+		<p>&copy; 2023 [Anandhababu]</p>
+	</footer>
+</body>
+</html>
